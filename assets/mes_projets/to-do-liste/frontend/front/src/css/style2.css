@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: white;
+  font-size: 18px;
+}
+
+#myDIV,
+.liste {
+  margin: 30px;
+  border-radius: 25px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 30px;
+  background: linear-gradient(blue, #6471ff);
+  color: white;
+  border-radius: 25px 25px 0 0;
+  flex-wrap: wrap;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 2.2rem;
+}
+
+.header-right {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+#myInput {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 25px;
+  background-color: rgba(255, 255, 255, 0.4);
+  border: 2px solid white;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.addBtn {
+  background-color: rgb(15, 109, 233);
+  border: 2px solid white;
+  padding: 10px 20px;
+  border-radius: 25px;
+  cursor: pointer;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.liste {
+  list-style-type: none;
+  margin-top: 0;
+  padding: 30px;
+  background-color: lightgray;
+  border-radius: 0 0 25px 25px;
+  min-height: 350px;
+  box-shadow: 10px 5px 5px rgba(124, 124, 124, 0.705);
+  font-size: 1.1rem;
+}
+
+.liste li {
+  margin: 20px 0;
+  padding: 15px;
+  border-bottom: 2px dashed black;
+}
+
+.checked {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.close {
+  margin-left: 15px;
+  cursor: pointer;
+  color: red;
+}
+
+@media (max-width: 480px) {
+  body {
+    padding: 15px;
+    font-size: 16px;
+  }
+
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+  }
+
+  .header-right {
+    flex-direction: column;
+    width: 100%;
+    margin-top: 15px;
+  }
+
+  #myInput,
+  .addBtn {
+    width: 100%;
+    margin-top: 8px;
+    font-size: 1rem;
+    padding: 8px 10px;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+
+  .liste {
+    padding: 20px;
+    font-size: 14px;
+  }
+
+  .liste li {
+    font-size: 14px;
+    padding: 12px;
+  }
+}

@@ -1,0 +1,180 @@
+Produit,Gluten,Lupin,Soja,Lait,Oeufs,Celeri,Fruits_a_coque,Arachides,Sesame,Moutarde,Poissons,Mollusques,Crustaces,Sulfites
+BABY MOUTARDE,Absent,Absent,Traces,Absent,Absent,Absent,Traces,Absent,Traces,Absent,Absent,Absent,Absent,Absent
+BABY POIVRE,Absent,Absent,Absent,Absent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+BABY BEARNAISE,Présent,Absent,Traces,Présent,Présent,Présent,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent
+CHEESY POIVRE,Présent,Traces,Présent,Absent,Traces,Traces,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent
+FRENCH POIVRE,Absent,Traces,Absent,Présent,Traces,Absent,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent
+CHICKEN BEARNAISE,Absent,Traces,Traces,Présent,Présent,Traces,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Traces
+SMOKY CHICKEN,Présent,Absent,Présent,Absent,Absent,Présent,Traces,Absent,Présent,Présent,Absent,Absent,Absent,Absent
+KING BACON,Présent,Absent,Présent,Présent,Présent,Absent,Traces,Absent,Présent,Présent,Absent,Absent,Absent,Absent
+KING CHICKEN,Présent,Absent,Présent,Absent,Présent,Présent,Traces,Absent,Présent,Absent,Absent,Absent,Absent,Absent
+KING FISH,Absent,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Présent,Absent,Présent,Absent,Absent,Absent
+KING TORTILLA CHEESE & BACON,Présent,Absent,Traces,Présent,Absent,Présent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING TORTILLA EXTRA CHEDDAR,Présent,Absent,Traces,Absent,Présent,Présent,Traces,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+KING TORTILLA VEGGIE CHEESE & BACON,Absent,Absent,Absent,Absent,Absent,Présent,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent
+GROGU BURGER,Présent,Traces,Traces,Présent,Absent,Traces,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Traces
+MANDALORIAN BURGER,Présent,Absent,Traces,Absent,Absent,Absent,Traces,Absent,Présent,Traces,Absent,Absent,Absent,Absent
+GROGU BURGER VEGGIE,Présent,Traces,Présent,Absent,Absent,Présent,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent
+MANDALORIAN BURGER VEGGIE,Présent,Absent,Présent,Absent,Absent,Traces,Traces,Absent,Présent,Traces,Absent,Absent,Absent,Absent
+CHEDDAR WHOPPER,Présent,Absent,Traces,Absent,Présent,Présent,Traces,Absent,Présent,Traces,Absent,Absent,Absent,Absent
+CHEDDAR STEAKHOUSE,Présent,Traces,Traces,Absent,Présent,Absent,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent
+BABY WHOPPER,Absent,Absent,Traces,Absent,Présent,Présent,Traces,Absent,Traces,Traces,Absent,Absent,Absent,Absent
+BABY BIG KING,Présent,Absent,Traces,Présent,Présent,Absent,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent
+BABY CHICKEN LOUISIANE,Présent,Absent,Traces,Présent,Présent,Présent,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent
+MASTER MONTAGNARD,Présent,Absent,Traces,Absent,Absent,Traces,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent
+MASTER MONTAGNARD POULET,Absent,Absent,Traces,Présent,Présent,Traces,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Traces
+MASTER MUNSTER,Présent,Absent,Traces,Présent,Absent,Traces,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent
+MASTER MUNSTER POULET,Présent,Absent,Traces,Présent,Absent,Traces,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Traces
+VEGGIE CHICKEN LOUISIANE STEAKHOUSE,Présent,Traces,Présent,Présent,Présent,Présent,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent
+VEGGIE WHOPPER,Absent,Absent,Absent,Traces,Présent,Présent,Traces,Absent,Présent,Traces,Absent,Absent,Absent,Absent
+VEGGIE STEAKHOUSE,Présent,Traces,Absent,Présent,Présent,Traces,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent
+BIG KING / BIG KING XXL,Présent,Absent,Traces,Présent,Présent,Absent,Traces,Absent,Présent,Présent,Absent,Absent,Absent,Absent
+CLASSIC KING,Présent,Absent,Traces,Présent,Absent,Absent,Traces,Absent,Présent,Présent,Absent,Absent,Absent,Absent
+CHEESEBURGER / DOUBLE CHEESE / TRIPLE CHEESE,Présent,Absent,Traces,Présent,Traces,Présent,Traces,Absent,Présent,Absent,Absent,Absent,Absent,Absent
+CHEESEBURGER BACON / DOUBLE CHEESE BACON,Présent,Absent,Traces,Présent,Traces,Présent,Traces,Absent,Présent,Présent,Absent,Absent,Absent,Absent
+DOUBLE WHOPPER CHEESE,Absent,Absent,Traces,Présent,Absent,Présent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+HAMBURGER,Présent,Absent,Traces,Traces,Traces,Absent,Traces,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+STEAKHOUSE,Absent,Traces,Traces,Présent,Présent,Absent,Traces,Absent,Traces,Absent,Absent,Absent,Absent,Absent
+WHOPPER,Absent,Absent,Traces,Traces,Présent,Présent,Traces,Absent,Présent,Traces,Absent,Absent,Absent,Absent
+MASTER CANTAL BACON,Présent,Absent,Traces,Présent,Présent,Traces,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent
+MASTER POULET CANTAL,Présent,Absent,Traces,Présent,Présent,Traces,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Traces
+CHICKEN LOUISIANE STEAKHOUSE,Présent,Traces,Traces,Présent,Présent,Traces,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Traces
+CRISPY CHICKEN CHEESE,Présent,Absent,Traces,Présent,Présent,Présent,Traces,Absent,Présent,Présent,Absent,Absent,Absent,Absent
+KING CHICKEN LOUISIANE,Présent,Absent,Traces,Présent,Présent,Présent,Traces,Absent,Présent,Présent,Absent,Absent,Absent,Absent
+BIG FISH,Présent,Absent,Absent,Absent,Absent,Absent,Traces,Absent,Présent,Présent,Présent,Absent,Absent,Absent
+FISHBURGER,Présent,Absent,Absent,Traces,Traces,Présent,Traces,Absent,Présent,Absent,Présent,Absent,Absent,Absent
+KING WRAP CHICKEN CHEESE & BACON,Absent,Absent,Traces,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING WRAP CHICKEN LOUISIANE,Présent,Absent,Traces,Présent,Présent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING WRAP VEGGIE CHICKEN LOUISIANE,Absent,Absent,Absent,Absent,Présent,Absent,Traces,Absent,Traces,Absent,Absent,Absent,Absent,Absent
+
+SAUCE BEARNAISE,Traces,Absent,Absent,Traces,Présent,Traces,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+SAUCE SAVEUR WASABI,Traces,Absent,Absent,Traces,Présent,Absent,Traces,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE NOIRE A L'AIL ET AU GINGEMBRE,Traces,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+SAUCE AU POIVRE,Traces,Absent,Présent,Présent,Absent,Absent,Traces,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE A LA MOUTARDE A L'ANCIENNE,Traces,Absent,Absent,Traces,Présent,Absent,Traces,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE CREMEUSE A L'ÉCHALOTE,Traces,Absent,Absent,Présent,Présent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+SAUCE CHEDDAR,Traces,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+VIANDE BOVINE GRILLÉE À LA FLAMME,Traces,Absent,Traces,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+BACON,Traces,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+BACON VEGETAL,Traces,Absent,Présent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+CRISPY CHICKEN,Présent,Absent,Traces,Traces,Traces,Présent,Absent,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+KING NUGGETS,Présent,Absent,Traces,Traces,Présent,Présent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+POULET PREMIUM,Présent,Absent,Traces,Traces,Traces,Traces,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Traces
+DONUT AU CHEDDAR,Présent,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+PATTY EMMENTAL,Présent,Absent,Traces,Présent,Traces,Traces,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+PANE VEGETAL,Présent,Absent,Absent,Traces,Absent,Présent,Traces,Absent,Traces,Traces,Absent,Absent,Absent,Absent
+HACHE VEGETAL,Présent,Absent,Présent,Traces,Absent,Traces,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+PORTION PANEE DE HOKI / COLIN,Absent,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Traces,Présent,Absent,Absent,Absent
+CANTAL AOP,Traces,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+FOURME D'AMBERT AOP,Traces,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+MAROILLES AOP / MUNSTER AOP,Traces,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+RACLETTE FUMEE,Traces,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+TRANCHE DE FROMAGE FONDU AU CHEDDAR,Traces,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+SAUCE BARBECUE,Traces,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE BIG KING,Présent,Absent,Absent,Traces,Présent,Absent,Traces,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE CAJUN,Traces,Absent,Absent,Présent,Présent,Absent,Traces,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE AU MAROILLES / SAUCE AU MUNSTER,Traces,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KETCHUP,Traces,Absent,Absent,Traces,Absent,Présent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+MAYONNAISE,Traces,Absent,Absent,Traces,Présent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+MOUTARDE,Traces,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+CORNICHONS,Traces,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+CROUSTY EMMENTAL,Présent,Absent,Traces,Présent,Traces,Traces,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+ONION RINGS,Présent,Absent,Traces,Traces,Traces,Traces,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Traces
+OIGNONS CRISPY,Absent,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+OIGNONS RISSOLÉS,Traces,Absent,Absent,Traces,Absent,Présent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+OIGNONS / TOMATES / SALADE ICEBERG / ROQUETTE,Traces,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+PIMENTS VERTS JALAPENOS,Traces,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+TOMATES MI-SÉCHÉES,Traces,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+
+BK CROUSTY,Présent,Absent,Traces,Présent,Présent,Traces,Traces,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+BK CROUSTY SUCRE,Présent,Absent,Présent,Présent,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+KING FRIES CH'TI,Traces,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+GAUFRETTES FRIES BY MARIANNE,Présent,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KRISPPER TENDERS,Présent,Absent,Traces,Traces,Traces,Traces,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+KING FRIES SAUCE AU MUNSTER & BACON,Traces,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING FRIES DOUBLE CHEDDAR,Traces,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+CHILI CHEESE NUGGETS,Présent,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+CROUSTY EMMENTAL,Présent,Absent,Traces,Présent,Traces,Traces,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+FRITES,Traces,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING NUGGETS / KINGBOX NUGGETS X20,Présent,Absent,Traces,Traces,Présent,Présent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+KING FRIES CHEDDAR & ONIONS,Présent,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING FRIES CHEDDAR / KING FRIES DOUBLE CHEDDAR,Traces,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING FRIES CHEDDAR & BACON,Traces,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KINGBOX NUGGETS X10 & CHILICHEESE X10,Absent,Absent,Traces,Présent,Présent,Présent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+KINGBOX NUGGETS X10 & ONION RINGS X10,Présent,Absent,Traces,Traces,Absent,Présent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Traces
+KINGBOX ONION RINGS X10 & CHILICHEESE X10,Présent,Absent,Traces,Présent,Absent,Traces,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Traces
+KING WINGS,Présent,Absent,Traces,Traces,Traces,Traces,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Présent
+ONION RINGS,Présent,Absent,Traces,Traces,Traces,Traces,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Traces
+
+SAUCE AIOLI,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE POIVRE GOUT FUME,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE NOIRE A L'AIL ET AU GINGEMBRE,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+SAUCE SAVEUR WASABI,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE SECRETE,Présent,Absent,Présent,Traces,Présent,Absent,Traces,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE CUP SMOKY BACON FLAVOR,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE CUP AIGRE DOUCE XXL,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE CUP1954 XXL,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE CUP CHEDDAR XXL,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+SAUCE 1954 GOUT GRILLE,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE SPICY ANDALOUSE,Présent,Absent,Présent,Absent,Présent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE BBQ,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE CHILI GOUT CHEESE,Absent,Absent,Absent,Présent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+SAUCE CURRY MANGO,Traces,Absent,Absent,Présent,Présent,Présent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE CREAMY RANCH,Absent,Absent,Absent,Présent,Présent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE MOUTARDE MIEL,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+KETCHUP,Absent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+MAYONNAISE,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+SAUCE POUR LES FRITES,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent
+
+KING FUSION PEANUT M&M'S,Traces,Absent,Présent,Présent,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent,Absent,Absent
+BABY CHURROS NUTELLA,Présent,Absent,Présent,Présent,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+BABY CHURROS SPECULOOS LOTUS,Présent,Absent,Présent,Traces,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+MADELEINE HELLO KITTY,Présent,Absent,Traces,Présent,Présent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+MUFFIN OREO,Présent,Absent,Présent,Présent,Présent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+KING FUSION OREO,Présent,Absent,Présent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING FUSION SPECULOOS LOTUS BISCOFF,Présent,Absent,Présent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING FUSION DUBAI STYLE,Présent,Absent,Présent,Présent,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+MINI KING FUSION KITKAT,Présent,Absent,Présent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING FUSION ANDROS BE NUTS & CACAHUETES,Traces,Absent,Traces,Présent,Absent,Absent,Traces,Présent,Absent,Absent,Absent,Absent,Absent,Absent
+DONUT SPECULOOS LOTUS BISCOFF,Présent,Absent,Traces,Présent,Absent,Absent,Traces,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+PETIT SHAKE VANILLE,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+CREAMY SHAKE CARAMEL ECLATS NOISETTES,Absent,Absent,Absent,Présent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+CREAMY SHAKE CHOCOLAT ECLATS NOISETTES,Absent,Absent,Absent,Présent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING SUNDAE (caramel/chocolat/fraise/framboise/nature),Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING FUSION 60 ANS NUTELLA,Présent,Absent,Présent,Présent,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+MINI KING FUSION 60 ANS NUTELLA,Présent,Absent,Présent,Présent,Absent,Absent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent
+MINI KING FUSION M&M'S / KING FUSION M&M'S,Traces,Absent,Présent,Présent,Traces,Absent,Traces,Présent,Absent,Absent,Absent,Absent,Absent,Absent
+KING FUSION LION,Présent,Absent,Présent,Présent,Absent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING FUSION SNICKERS,Présent,Absent,Présent,Présent,Absent,Absent,Traces,Présent,Absent,Absent,Absent,Absent,Absent,Absent
+MINI KING FUSION VANILLE / KING FUSION VANILLE,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+COOKIE DUO CHOCO,Présent,Absent,Traces,Présent,Présent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+DONUT CHOCO NOISETTE,Présent,Absent,Traces,Présent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+GATEAU ANNIVERSAIRE CHOCOLAT,Présent,Absent,Traces,Présent,Présent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+MUFFIN COEUR COULANT CHOCOLAT NOISETTE,Présent,Absent,Traces,Présent,Présent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING BIO FRUITS / POMPOTE BIO POMME,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+KING YAOURT,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+
+SAUCE CAESAR,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Présent,Absent,Absent,Absent
+KING BIO CRUDITÉS,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+VINAIGRETTE BALSAMIQUE,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+VINAIGRETTE BALSAMIQUE TOMATES ET TOMATES SECHEES,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+PETITE SALADE,Traces,Absent,Absent,Absent,Présent,Absent,Traces,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+NEW CAESAR CHICKEN VEGGIE BOWL,Présent,Absent,Présent,Présent,Présent,Présent,Traces,Absent,Traces,Présent,Traces,Absent,Traces,Absent
+NEW CAESAR CHICKEN BOWL,Présent,Absent,Traces,Présent,Présent,Présent,Traces,Absent,Traces,Présent,Traces,Absent,Traces,Absent
+
+FUZE TEA PETILLANT SAVEUR CITRON,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+BOISSON GROGU,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+VITTEL FRAISE & FRAMBOISE,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+NECTAR DE POMME - CQLP,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+COCA-COLA / SANS SUCRES / CHERRY / CHERRY SANS SUCRE,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+FUZE TEA PÊCHE HIBISCUS,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+OASIS,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+PERRIER / VITTEL,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+SPRITE / FANTA (SANS SUCRES AJOUTÉS),Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+
+EXPRESSO / DOUBLE EXPRESSO / CAFÉ ALLONGÉ / THÉ,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+CAPPUCCINO / CAFÉ LATTE,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+CAPPUCCINO GOURMAND CARAMEL,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+CHOCOLAT CHAUD / CHOCOLAT CHAUD GOURMAND CARAMEL,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+LATTE GOURMAND CARAMEL,Absent,Absent,Absent,Présent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent,Absent
+

@@ -1,0 +1,14 @@
+FROM python:3.10
+
+WORKDIR /app
+
+COPY requirements.txt ./
+RUN pip install -r requirements.txt
+RUN python -m playwright install --with-deps chromium
+
+COPY . .
+RUN chmod +x scrap/run_all.sh
+
+EXPOSE 5000
+
+CMD ["sh", "-c", "./scrap/run_all.sh && python serveur.py"]

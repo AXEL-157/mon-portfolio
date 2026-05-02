@@ -1,0 +1,19 @@
+{
+    "name": "e-todo-backend",
+    "version": "1.0.0",
+    "description": "Backend API for the E-Todo app (Node.js + Express + MySQL)",
+    "main": "src/index.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node src/index.js",
+        "dev": "vite"
+    },
+    "dependencies": {
+        "bcrypt": "^6.0.0",
+        "bcryptjs": "^3.0.3",
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "jsonwebtoken": "^9.0.2",
+        "mysql2": "^3.6.0"
+    }
+}

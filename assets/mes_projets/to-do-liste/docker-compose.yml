@@ -1,0 +1,67 @@
+services:
+  front:
+    build: ./frontend
+    ports:
+      - "5173:5173"
+    networks:
+    - app_network
+
+  backend:
+    build: ./backend             
+    container_name: node-backend
+    ports:
+      - "3002:3001"
+    env_file:
+     - .env              
+    volumes:
+      - ./backend:/usr/src  
+      - /usr/node_modules
+    command: sh -c "npm install && npm start"
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+    - app_network
+
+
+  db:
+    image: mysql:8.0
+    container_name: todomysql
+    env_file:
+      - .env
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+      - ./e-todo.sql:/docker-entrypoint-initdb.d/e-todo.sql
+    networks:
+      - app_network
+
+    
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -h localhost -p$${MYSQL_ROOT_PASSWORD} --silent"]
+      interval: 10s     
+      timeout: 5s       
+      retries: 5       
+      start_period: 30s
+      
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: todopma
+    restart: always
+    depends_on:
+      - db
+    environment:
+      PMA_HOST: db              
+      PMA_PORT: 3306
+      MYSQL_ROOT_PASSWORD: pass 
+    ports:
+      - "8080:80" 
+
+volumes:
+  mysql-data:
+
+networks:
+  app_network:
+    driver: bridge
+  
